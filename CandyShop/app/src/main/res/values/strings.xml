@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CandyShop</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_welcome_message">Welcome !</string>
+    <string name="main_welcome_descr">We're the best Home Delivery service for Candies ! Please choose from the available delivery plans below:</string>
+</resources>
